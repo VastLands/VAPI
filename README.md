@@ -1,10 +1,10 @@
 # VAPI
 VastLands API Wrapper - Written in PHP
 
-##Requirements
+#Requirements
 PHP >= `7.2`
 
-##How to use? 🎈
+#How to use? 🎈
 Fork/download the `VastLands` namespace, add it to your project, make sure you include it.
 
 Lets' get started now:
@@ -42,7 +42,7 @@ if($myProfile->isValid()){
 Now you can utilize all those juice methods that's within the `VProfile` class,
 for a list of methods, check the `VProfile` class. 
 
-###Real Cool Examples💣
+#Real Cool Examples💣
 
 Get a player current rank
 
@@ -55,6 +55,6 @@ $rank = $myProfile->getRank(); //Now you have their rank!
 echo "Your rank is currently " . $rank . " on VastLands!";
 ```
 
-###Help & inquiries
+#Help & inquiries
 If you have any questions, or wish to suggest something, open a issue template and we'll get back to you
 as soon as possible!
