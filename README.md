@@ -1,0 +1,2 @@
+# VAPI
+VastLands Public API
